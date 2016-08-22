@@ -10,9 +10,9 @@ We use the [inf-2202-f16@list.uit.no](https://list.uit.no/sympa/info/inf-2202-f1
 
 We have the following rooms and hours:
 
-- Tuesdays 14:15-16:00, A016: lab excersises.
+- Tuesdays 14:15-16:00, A016: lab exercises.
 - Thursdays 14:15-16:00, B203 (Small auditorium): lectures.
-- Thursdays 14:15-16:00, p-lab: lab exercices.
+- Thursdays 14:15-16:00, p-lab: lab exercises.
 - Fridays 10:15-11:00, NYLYSTH AUD: lectures.
 
 ## Staff
@@ -37,9 +37,9 @@ We have the following rooms and hours:
 | L10 | Thu 13.10 | Guest lecture: Scala and Spark | Inge Alexander Raknes? |
 | L11 | Fri 24.10 | Data-intensive computing | Lars Ailo |
 | L12 | Fri 28.10 | Spark libraries | Lars Ailo |
-| L13 | Thu 03.11 or Fri 04.11 | Guest lecture: ? | - |
-| L14 | Tue 10.11 or Fri 11.11 | Summary | Lars Ailo  |
-| -   | Tue 17.11 and Fri 18.11| No lecture | - |
+| L13 | Fri 04.11 | Guest lecture: The new Stallo Supercomputer | Steinar Trædal-Henden |
+| L14 | Thu 10.11 | Guest lecture? | TBA  |
+| L15 | Fri 11.11 | Summary lecture | Lars Ailo |
 | -   | Thu 24.11 | Exam | - |
 
 ## Readings
@@ -49,35 +49,34 @@ All lecture notes are **Mandatory**.
 In addition, unless otherwise noted, the following are also **mandatory** readings:
 
 1. Introduction
-	* None
+* None
 2. Threads and synchronization primitives (operating systems course recap):
-	* Modern operating systems, 3ed, Andrew S. Tanenbaum. Prentice Hall. 2007. Chapters: 2.2, 2.3, 2.5, 10.3, 11.4
-	* Alternative to MOS: another operating systems textbook: the chapters about threading, IPC mechanisms, and classical IPC problems.
+- Modern operating systems, 3ed, Andrew S. Tanenbaum. Prentice Hall. 2007. Chapters: 2.2, 2.3, 2.5, 10.3, 11.4
+- Alternative to MOS: another operating systems textbook: the chapters about threading, IPC mechanisms, and classical IPC problems.
 
 The following are suggested **additional readings**:
-
-* The Go Programming Language. Alan Donovan and Brian Kernighan. 2015.
-* Learning Spark. Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia. O’Reilly. 2015.
-* Parallel Computer Architecture: A Hardware/Software Approach. David Culler, J.P. Singh, Anoop Gupta. Morgan Kaufmann. 1998.
+- The Go Programming Language. Alan Donovan and Brian Kernighan. 2015.
+- Learning Spark. Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia. O’Reilly. 2015.
+- Parallel Computer Architecture: A Hardware/Software Approach. David Culler, J.P. Singh, Anoop Gupta. Morgan Kaufmann. 1998.
 	* This book has a great introduction to parallel programming.
 	* There is one copy in the library. Please be nice to your fellow students and do not lend that copy for an extended period.
-* The Art of Computer Systems Performance Analysis: Techniques for Experimental Design, Measurement, Simulation, and Modeling. R. K. Jain. Wiley. 1991.
+- The Art of Computer Systems Performance Analysis: Techniques for Experimental Design, Measurement, Simulation, and Modeling. R. K. Jain. Wiley. 1991.
 	* A very good book about performance analysis.
-	* There is one copy in the library. Please be nice to your fellow students and do not lend that copy for an extended period.
-* Computer Architecture, Fifth Edition: A Quantitative Approach, 5ed. John L. Hennessy, David A. Patterson. Morgan Kaufmann. 2011.
+	* There is one copy in the library. Please be nice to your fellow students and do not lend that copy for an extended period.    
+- Computer Architecture, Fifth Edition: A Quantitative Approach, 5ed. John L. Hennessy, David A. Patterson. Morgan Kaufmann. 2011.
 	* This book has a throughout description of different parallel architectures.
-	* You can purchase this book from your favorite bookstore.
-* The Fourth Paradigm: Data-Intensive Scientific Discovery. Edited by Tony Hey, Stewart Tansley, and Kristin Tolle. 2010.
+	* You can purchase this book from your favourite bookstore.    
+- The Fourth Paradigm: Data-Intensive Scientific Discovery. Edited by Tony Hey, Stewart Tansley, and Kristin Tolle. 2010.
 	* This collection of essays describe many of the opportunities and challenges for data-intensive computing in different scientific fields.
-	* The book is freely available as an ebook.  
-* Advanced Analytics with Spark. Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills. O’Reilly. 2015.
+	* The book is freely available as an ebook.
+- Advanced Analytics with Spark. Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills. O’Reilly. 2015.
 
 ## Mandatory assignments
 
 | Project |	Start    | Due      | Subject | Lecturer |
 |---------|----------|----------|---------|----------|
-| P1 	  | 23.08    | TBD      | TBA     | Tim      |
-| P2	  | 13.09?   | TBD      | TBA     | Tim      |
+| P1  	  | 23.08    | TBD      | TBA     | Tim      |
+| P2  	  | 13.09?   | TBD      | TBA     | Tim      |
 | P3      | 11.10?   | TBD      | TBA     | -        |
 
 Note! The mandatory assignment text and pre-code are available in private repositories accessible only for the members of the uit-inf-2202-f16 github organization. 
