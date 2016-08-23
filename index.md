@@ -75,8 +75,8 @@ The following are suggested **additional readings**:
 
 | Project |	Start    | Due      | Subject | Lecturer |
 |---------|----------|----------|---------|----------|
-| P1  	  | 23.08    | TBD      | TBA     | Tim      |
-| P2  	  | 13.09?   | TBD      | TBA     | Tim      |
+| P1  	  | 23.08    | 12.09    | Concurrent B+tree| Tim      |
+| P2  	  | 13.09    | TBD      | TBA     | Tim      |
 | P3      | 11.10?   | TBD      | TBA     | -        |
 
 Note! The mandatory assignment text and pre-code are available in private repositories accessible only for the members of the uit-inf-2202-f16 github organization. 
