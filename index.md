@@ -19,7 +19,6 @@ We have the following rooms and hours:
 
 - Lars Ailo Bongo <larsab@cs.uit.no>, Office: A259
 - Tim Alexander Teige <tte008@post.uit.no>, Office: ?
-- Morten Grønnesby?
 
 ## Lecture plan
 
@@ -27,14 +26,14 @@ We have the following rooms and hours:
 |-----------|-----------|-----------|----------|
 | L1  | Fri 19.08 | [Introduction](lectures/01-introduction.pptx) | Lars Ailo |
 | L2  | Fri 26.08 | Threads and synchronization primitives| Lars Ailo |
-| L3  | Thu 01.09 | Guest lecture: Go | Giacomo Tartari? |
+| L3  | Thu 01.09 | Guest lecture: Go | Giacomo Tartari |
 | L4  | Fri 02.09 | Parallel architectures | Lars Ailo |
 | L5  | Fri 09.09 | Parallel programs | Lars Ailo |
 | L6  | Fri 16.09 | Programming for performance | Lars Ailo |
 | L7  | Fri 23.09 | Performance evaluation | Lars Ailo |
 | L8  | Fri 30.09 | Parallel program performance evaluation | Lars Ailo |
-| L9  | Fri 07.10 | Guest lecture: Cloud computing | Aleksandr Agafonov? |
-| L10 | Thu 13.10 | Guest lecture: Scala and Spark | Inge Alexander Raknes? |
+| L9  | Fri 07.10 | Cloud computing | Lars Ailo |
+| L10 | Thu 13.10 | Guest lecture: Scala and Spark | Inge Alexander Raknes |
 | L11 | Fri 24.10 | Data-intensive computing | Lars Ailo |
 | L12 | Fri 28.10 | Spark libraries | Lars Ailo |
 | L13 | Fri 04.11 | Guest lecture: The new Stallo Supercomputer | Steinar Trædal-Henden |
