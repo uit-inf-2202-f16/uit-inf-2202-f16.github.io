@@ -25,7 +25,7 @@ We have the following rooms and hours:
 | Lecture 	| Date		| Subject	| Lecturer |
 |-----------|-----------|-----------|----------|
 | L1  | Fri 19.08 | [Introduction](lectures/01-introduction.pptx) | Lars Ailo |
-| L2  | Fri 26.08 | Threads and synchronization primitives| Lars Ailo |
+| L2  | Fri 26.08 | [Threads and synchronization primitives](lectures/02-threads-synchronization.pptx)| Lars Ailo |
 | L3  | Thu 01.09 | Guest lecture: Go | Giacomo Tartari |
 | L4  | Fri 02.09 | Parallel architectures | Lars Ailo |
 | L5  | Fri 09.09 | Parallel programs | Lars Ailo |
