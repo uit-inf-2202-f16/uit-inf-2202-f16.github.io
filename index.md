@@ -20,6 +20,10 @@ We have the following rooms and hours:
 - Lars Ailo Bongo <larsab@cs.uit.no>, Office: A259
 - Tim Alexander Teige <tte008@post.uit.no>, Office: ?
 
+## GitHub
+
+[The course GitHub repository](https://github.com/uit-inf-2202-f16).
+
 ## Lecture plan
 
 | Lecture 	| Date		| Subject	| Lecturer |
@@ -52,6 +56,13 @@ In addition, unless otherwise noted, the following are also **mandatory** readin
 2. Threads and synchronization primitives (operating systems course recap):
 - Modern operating systems, 3ed, Andrew S. Tanenbaum. Prentice Hall. 2007. Chapters: 2.2, 2.3, 2.5, 10.3, 11.4
 - Alternative to MOS: another operating systems textbook: the chapters about threading, IPC mechanisms, and classical IPC problems.
+3. Go
+- Rob Pike. [SPLASH keynote talk](http://talks.golang.org/2012/splash.article)
+- [A tour of Go](http://tour.golang.org/)
+- [How to write Go code](http://golang.org/doc/code.html)
+- [Effective Go](http://golang.org/doc/effective_go.html)
+- Go concurrency patterns ([video](http://www.youtube.com/watch?v=f6kdp27TYZs), [slides](http://talks.golang.org/2012/concurrency.slide#1))
+- Advanced Go concurrency patterns ([video](https://www.youtube.com/watch?v=QDDwwePbDtw), [slides](http://talks.golang.org/2013/advconc.slide#1))
 
 The following are suggested **additional readings**:
 
@@ -80,7 +91,7 @@ The following are suggested **additional readings**:
 
 | Project |	Start    | Due      | Subject | Lecturer |
 |---------|----------|----------|---------|----------|
-| P1  	  | 23.08    | 12.09    | Concurrent B+tree| Tim      |
+| P1  	  | 23.08    | 12.09    | [Concurrent B+tree](https://github.com/uit-inf-2202-f16/assignment-1) | Tim      |
 | P2  	  | 13.09    | TBD      | TBA     | Tim      |
 | P3      | 11.10?   | TBD      | TBA     | -        |
 
@@ -99,3 +110,6 @@ Note! The mandatory assignment text and pre-code are available in private reposi
 		3. Sleeping barber
 		4. Dining philosophers
 	4. Modify the code in 3) to use message passing.
+3. Go
+	1. [Take a tour of Go](http://tour.golang.org/welcome/1)
+	2. Implement the classical IPC problems in exercise 2.3. in Go.
