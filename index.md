@@ -18,7 +18,7 @@ We have the following rooms and hours:
 ## Staff
 
 - Lars Ailo Bongo <larsab@cs.uit.no>, Office: A259
-- Tim Alexander Teige <tte008@post.uit.no>, Office: ?
+- Tim Alexander Teige <tte008@post.uit.no>, Office: ODS-Lab
 
 ## GitHub
 
