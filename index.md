@@ -30,7 +30,7 @@ We have the following rooms and hours:
 |-----------|-----------|-----------|----------|
 | L1  | Fri 19.08 | [Introduction](lectures/01-introduction.pptx) | Lars Ailo |
 | L2  | Fri 26.08 | [Threads and synchronization primitives](lectures/02-threads-synchronization.pptx)| Lars Ailo |
-| L3  | Thu 01.09 | Guest lecture: [Go](lectures/03-Go Language.pdf) | Giacomo Tartari |
+| L3  | Thu 01.09 | Guest lecture: [Go Language](lectures/03-Go Language.pdf) | Giacomo Tartari |
 | L4  | Fri 02.09 | Parallel architectures | Lars Ailo |
 | L5  | Fri 09.09 | Parallel programs | Lars Ailo |
 | L6  | Fri 16.09 | Programming for performance | Lars Ailo |
@@ -63,6 +63,8 @@ In addition, unless otherwise noted, the following are also **mandatory** readin
 - [Effective Go](http://golang.org/doc/effective_go.html)
 - Go concurrency patterns ([video](http://www.youtube.com/watch?v=f6kdp27TYZs), [slides](http://talks.golang.org/2012/concurrency.slide#1))
 - Advanced Go concurrency patterns ([video](https://www.youtube.com/watch?v=QDDwwePbDtw), [slides](http://talks.golang.org/2013/advconc.slide#1))
+4. Parallel architectures
+- Computer Organization and Design: the Hardware/Software Interface, 5th. David A. Patterson, John L. Hennessy. Morgan Kaufmann. 2011. Chapter 6: “Parallel Processors from Client to Cloud”.
 
 The following are suggested **additional readings**:
 
@@ -95,7 +97,6 @@ The following are suggested **additional readings**:
 | P2  	  | 13.09    | TBD      | TBA     | Tim      |
 | P3      | 11.10?   | TBD      | TBA     | -        |
 
-Note! The mandatory assignment text and pre-code are available in private repositories accessible only for the members of the uit-inf-2202-f16 github organization. 
 
 ## Exercises
 
@@ -113,3 +114,5 @@ Note! The mandatory assignment text and pre-code are available in private reposi
 3. Go
 	1. [Take a tour of Go](http://tour.golang.org/welcome/1)
 	2. Implement the classical IPC problems in exercise 2.3. in Go.
+4. Parallel architectures
+    1. None
