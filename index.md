@@ -31,7 +31,7 @@ We have the following rooms and hours:
 | L1  | Fri 19.08 | [Introduction](lectures/01-introduction.pptx) | Lars Ailo |
 | L2  | Fri 26.08 | [Threads and synchronization primitives](lectures/02-threads-synchronization.pptx)| Lars Ailo |
 | L3  | Thu 01.09 | Guest lecture: [Go Language](lectures/03-Go Language.pdf) | Giacomo Tartari |
-| L4  | Fri 02.09 | Parallel architectures | Lars Ailo |
+| L4  | Fri 02.09 | [Parallel architectures](lectures/04-parallel-architectures.pptx) | Lars Ailo |
 | L5  | Fri 09.09 | Parallel programs | Lars Ailo |
 | L6  | Fri 16.09 | Programming for performance | Lars Ailo |
 | L7  | Fri 23.09 | Performance evaluation | Lars Ailo |
