@@ -32,7 +32,7 @@ We have the following rooms and hours:
 | L2  | Fri 26.08 | [Threads and synchronization primitives](lectures/02-threads-synchronization.pptx)| Lars Ailo |
 | L3  | Thu 01.09 | Guest lecture: [Go Language](lectures/03-Go Language.pdf) | Giacomo Tartari |
 | L4  | Fri 02.09 | [Parallel architectures](lectures/04-parallel-architectures.pptx) | Lars Ailo |
-| L5  | Fri 09.09 | Parallel programs | Lars Ailo |
+| L5  | Fri 09.09 | [Parallel programs](lectures/05-parallel-programs.pptx) | Lars Ailo |
 | L6  | Fri 16.09 | Programming for performance | Lars Ailo |
 | L7  | Fri 23.09 | Performance evaluation | Lars Ailo |
 | L8  | Fri 30.09 | Parallel program performance evaluation | Lars Ailo |
@@ -65,6 +65,8 @@ In addition, unless otherwise noted, the following are also **mandatory** readin
 - Advanced Go concurrency patterns ([video](https://www.youtube.com/watch?v=QDDwwePbDtw), [slides](http://talks.golang.org/2013/advconc.slide#1))
 4. Parallel architectures
 - Computer Organization and Design: the Hardware/Software Interface, 5th. David A. Patterson, John L. Hennessy. Morgan Kaufmann. 2011. Chapter 6: “Parallel Processors from Client to Cloud”.
+5. Parallel programs
+- None
 
 The following are suggested **additional readings**:
 
@@ -115,4 +117,7 @@ The following are suggested **additional readings**:
 	1. [Take a tour of Go](http://tour.golang.org/welcome/1)
 	2. Implement the classical IPC problems in exercise 2.3. in Go.
 4. Parallel architectures
-    1. None
+    1. TBA
+5. Parallel programs
+	1. Implement a simpliefied BLAST search program in Go that does similarity search on two lists of random DNA sequences.
+	2. Implement a heat distribution (SOR) program using Pthreads or (/and) Go.
