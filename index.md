@@ -95,8 +95,8 @@ The following are suggested **additional readings**:
 
 | Project |	Start    | Due      | Subject | Lecturer |
 |---------|----------|----------|---------|----------|
-| P1  	  | 23.08    | 12.09    | [Concurrent B+tree](https://github.com/uit-inf-2202-f16/assignment-1) | Tim      |
-| P2  	  | 13.09    | TBD      | TBA     | Tim      |
+| P1  	  | 23.08    | 19.09    | [Concurrent B+tree](https://github.com/uit-inf-2202-f16/assignment-1) | Tim      |
+| P2  	  | 20.09    | TBD      | TBA     | Tim      |
 | P3      | 11.10?   | TBD      | TBA     | -        |
 
 
