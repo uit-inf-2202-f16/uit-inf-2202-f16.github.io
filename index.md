@@ -33,7 +33,7 @@ We have the following rooms and hours:
 | L3  | Thu 01.09 | Guest lecture: [Go Language](lectures/03-Go Language.pdf) | Giacomo Tartari |
 | L4  | Fri 02.09 | [Parallel architectures](lectures/04-parallel-architectures.pptx) | Lars Ailo |
 | L5  | Fri 09.09 | [Parallel programs](lectures/05-parallel-programs.pptx) | Lars Ailo |
-| L6  | Fri 16.09 | Programming for performance | Lars Ailo |
+| L6  | Fri 16.09 | [Programming for performance](lectures/06-programming-for-performance.pptx) | Lars Ailo |
 | L7  | Fri 23.09 | Performance evaluation | Lars Ailo |
 | L8  | Fri 30.09 | Parallel program performance evaluation | Lars Ailo |
 | L9  | Fri 07.10 | Cloud computing | Lars Ailo |
@@ -66,6 +66,8 @@ In addition, unless otherwise noted, the following are also **mandatory** readin
 4. Parallel architectures
 - Computer Organization and Design: the Hardware/Software Interface, 5th. David A. Patterson, John L. Hennessy. Morgan Kaufmann. 2011. Chapter 6: “Parallel Processors from Client to Cloud”.
 5. Parallel programs
+- None
+6. Programming for performance
 - None
 
 The following are suggested **additional readings**:
@@ -121,3 +123,5 @@ The following are suggested **additional readings**:
 5. Parallel programs
 	1. Implement a simpliefied BLAST search program in Go that does similarity search on two lists of random DNA sequences.
 	2. Implement a heat distribution (SOR) program using Pthreads or (/and) Go.
+6. Programming for performance
+	1. Implement a tuple space in Python with semantics similar to Linda. Use your tuple space to implement a parallel version of Mandelbrot that uses dynamic assignment (pool of tasks).
