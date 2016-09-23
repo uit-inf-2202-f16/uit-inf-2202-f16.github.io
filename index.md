@@ -34,8 +34,8 @@ We have the following rooms and hours:
 | L4  | Fri 02.09 | [Parallel architectures](lectures/04-parallel-architectures.pptx) | Lars Ailo |
 | L5  | Fri 09.09 | [Parallel programs](lectures/05-parallel-programs.pptx) | Lars Ailo |
 | L6  | Fri 16.09 | [Programming for performance](lectures/06-programming-for-performance.pptx) | Lars Ailo |
-| L7  | Fri 23.09 | Performance evaluation | Lars Ailo |
-| L8  | Fri 30.09 | Parallel program performance evaluation | Lars Ailo |
+| L7  | Fri 23.09 | [Parallel program performance evaluation](lectures/07-parallel-program-performance.pptx) | Lars Ailo |
+| L8  | Fri 30.09 | Performance evaluation | Lars Ailo |
 | L9  | Fri 07.10 | Cloud computing | Lars Ailo |
 | L10 | Thu 13.10 | Guest lecture: Scala and Spark | Inge Alexander Raknes |
 | L11 | Fri 24.10 | Data-intensive computing | Lars Ailo |
@@ -69,6 +69,12 @@ In addition, unless otherwise noted, the following are also **mandatory** readin
 - None
 6. Programming for performance
 - None
+7. Parallel performance evaluation
+- [Amdahl’s law](http://dl.acm.org/citation.cfm?id=1465560)
+- [Gustafson’s law](http://dl.acm.org/citation.cfm?id=42415)
+- [Debunking the 100X GPU vs. CPU myth: an evaluation of throughput computing on CPU and GPU](http://dl.acm.org/citation.cfm?id=1816021) or [Can traditional programming bridge the ninja performance gap for parallel computing applications?](http://dl.acm.org/citation.cfm?id=2766485.2742910)
+8. Performance evaluation
+- None
 
 The following are suggested **additional readings**:
 
@@ -98,7 +104,7 @@ The following are suggested **additional readings**:
 | Project |	Start    | Due      | Subject | Lecturer |
 |---------|----------|----------|---------|----------|
 | P1  	  | 23.08    | 19.09    | [Concurrent B+tree](https://github.com/uit-inf-2202-f16/assignment-1) | Tim      |
-| P2  	  | 20.09    | TBD      | TBA     | Tim      |
+| P2  	  | 20.09    | TBD      | [Deduplication system](https://github.com/uit-inf-2202-f16/assignment-2) | Tim |
 | P3      | 11.10?   | TBD      | TBA     | -        |
 
 
@@ -119,9 +125,13 @@ The following are suggested **additional readings**:
 	1. [Take a tour of Go](http://tour.golang.org/welcome/1)
 	2. Implement the classical IPC problems in exercise 2.3. in Go.
 4. Parallel architectures
-    1. TBA
+    1. None
 5. Parallel programs
 	1. Implement a simpliefied BLAST search program in Go that does similarity search on two lists of random DNA sequences.
 	2. Implement a heat distribution (SOR) program using Pthreads or (/and) Go.
 6. Programming for performance
 	1. Implement a tuple space in Python with semantics similar to Linda. Use your tuple space to implement a parallel version of Mandelbrot that uses dynamic assignment (pool of tasks).
+7. Parallel program performance evaluation
+	1. Go through either the [debunking](http://dl.acm.org/citation.cfm?id=1816021) or [ninja](http://dl.acm.org/citation.cfm?id=2766485.2742910) paper and study how they did each of the “Steps for a performance evaluation study”.
+8. Performance evaluation
+	1. None
