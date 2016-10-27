@@ -36,7 +36,7 @@ We have the following rooms and hours:
 | L6  | Fri 16.09 | [Programming for performance](lectures/06-programming-for-performance.pptx) | Lars Ailo |
 | L7  | Fri 23.09 | [Parallel program performance evaluation](lectures/07-parallel-program-performance.pptx) | Lars Ailo |
 | L8  | Fri 30.09 | [Performance evaluation](lectures/08-performance-evaluation.pptx) | Lars Ailo |
-| L9  | Fri 07.10 | Cloud computing | Lars Ailo |
+| L9  | Fri 07.10 | Cloud computing (no slides) | Lars Ailo |
 | L10 | Thu 13.10 | Guest lecture: Scala and Spark | Inge Alexander Raknes |
 | -   | Fri 21.10 | Postponed | - |
 | L11 | Fri 28.10 | Data-intensive computing | Lars Ailo |
