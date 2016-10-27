@@ -38,8 +38,9 @@ We have the following rooms and hours:
 | L8  | Fri 30.09 | [Performance evaluation](lectures/08-performance-evaluation.pptx) | Lars Ailo |
 | L9  | Fri 07.10 | Cloud computing | Lars Ailo |
 | L10 | Thu 13.10 | Guest lecture: Scala and Spark | Inge Alexander Raknes |
-| L11 | Fri 24.10 | Data-intensive computing | Lars Ailo |
-| L12 | Fri 28.10 | Spark libraries | Lars Ailo |
+| -   | Fri 21.10 | Postponed | - |
+| L11 | Fri 28.10 | Data-intensive computing | Lars Ailo |
+| L12 | Thu 03.10 | Spark libraries | Lars Ailo |
 | L13 | Fri 04.11 | Guest lecture: The new Stallo Supercomputer | Steinar Trædal-Henden |
 | L14 | Thu 10.11 | Guest lecture? | TBA  |
 | L15 | Fri 11.11 | Summary lecture | Lars Ailo |
