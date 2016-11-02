@@ -42,8 +42,8 @@ We have the following rooms and hours:
 | L11 | Fri 28.10 | [Data-intensive computing](lecture/11-data-intensive-computing.pptx) | Lars Ailo |
 | L12 | Thu 03.10 | Spark libraries | Lars Ailo |
 | L13 | Fri 04.11 | Guest lecture: The new Stallo Supercomputer | Steinar Trædal-Henden |
-| L14 | Thu 10.11 | Guest lecture? | TBA  |
-| L15 | Fri 11.11 | Summary lecture | Lars Ailo |
+| L14 | Thu 10.11 | Summary lecture   | Lars Ailo  |
+| -   | Thu 10.11 | Course evaluation | Lars Ailo |
 | -   | Thu 24.11 | Exam | - |
 
 ## Readings
@@ -105,8 +105,8 @@ The following are suggested **additional readings**:
 | Project |	Start    | Due      | Subject | Lecturer |
 |---------|----------|----------|---------|----------|
 | P1  	  | 23.08    | 19.09    | [Concurrent B+tree](https://github.com/uit-inf-2202-f16/assignment-1) | Tim      |
-| P2  	  | 20.09    | TBD      | [Deduplication system](https://github.com/uit-inf-2202-f16/assignment-2) | Tim |
-| P3      | 11.10?   | TBD      | TBA     | -        |
+| P2  	  | 20.09    | 10.10      | [Deduplication system](https://github.com/uit-inf-2202-f16/assignment-2) | Tim |
+| P3      | 11.10    | 07.11      | [PageRank on AWS](https://github.com/uit-inf-2202-f16/assignment3)     | Tim        |
 
 
 ## Exercises
