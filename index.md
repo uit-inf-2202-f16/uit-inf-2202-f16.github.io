@@ -40,7 +40,7 @@ We have the following rooms and hours:
 | L10 | Thu 13.10 | Guest lecture: [Scala](lecutres/10-Scala.pdf) and [Spark](lectures/10-Spark.pdf) | Inge Alexander Raknes |
 | -   | Fri 21.10 | Postponed | - |
 | L11 | Fri 28.10 | [Data-intensive computing](lecture/11-data-intensive-computing.pptx) | Lars Ailo |
-| L12 | Thu 03.10 | Spark libraries | Lars Ailo |
+| L12 | Thu 03.10 | [Spark libraries](lecture/12-spark-libraries.pptx) | Lars Ailo |
 | L13 | Fri 04.11 | Guest lecture: The new Stallo Supercomputer | Steinar Trædal-Henden |
 | L14 | Thu 10.11 | Summary lecture   | Lars Ailo  |
 | -   | Thu 10.11 | Course evaluation | Lars Ailo |
