@@ -119,7 +119,7 @@ The following are suggested **additional readings**:
 | Project |	Start    | Due      | Subject | Lecturer |
 |---------|----------|----------|---------|----------|
 | P1  	  | 23.08    | 19.09    | [Concurrent B+tree](https://github.com/uit-inf-2202-f16/assignment-1) | Tim      |
-| P2  	  | 20.09    | 10.10      | [Deduplication system](https://github.com/uit-inf-2202-f16/assignment-2) | Tim |
+| P2  	  | 20.09    | 10.10      | [Deduplication system](https://github.com/uit-inf-2202-f16/assignment2) | Tim |
 | P3      | 11.10    | 07.11      | [PageRank on AWS](https://github.com/uit-inf-2202-f16/assignment3)     | Tim        |
 
 
