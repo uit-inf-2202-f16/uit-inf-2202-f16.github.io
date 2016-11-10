@@ -42,7 +42,7 @@ We have the following rooms and hours:
 | L11 | Fri 28.10 | [Data-intensive computing](lectures/11-data-intensive-computing.pptx) | Lars Ailo |
 | L12 | Thu 03.10 | [Spark libraries](lectures/12-spark-libraries.pptx) | Lars Ailo |
 | L13 | Fri 04.11 | Guest lecture: The new Stallo Supercomputer | Steinar Trædal-Henden |
-| L14 | Thu 10.11 | [Summary lecture](lectures/13-summary.pptx)   | Lars Ailo  |
+| L14 | Thu 10.11 | [Summary lecture](lectures/14-summary.pptx)   | Lars Ailo  |
 | -   | Thu 10.11 | Course evaluation | Jan Fuglesteg and Kai-Even Nilssen |
 | -   | Thu 24.11 | Exam | - |
 
