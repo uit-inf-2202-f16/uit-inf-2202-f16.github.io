@@ -42,7 +42,7 @@ We have the following rooms and hours:
 | L11 | Fri 28.10 | [Data-intensive computing](lectures/11-data-intensive-computing.pptx) | Lars Ailo |
 | L12 | Thu 03.10 | [Spark libraries](lectures/12-spark-libraries.pptx) | Lars Ailo |
 | L13 | Fri 04.11 | Guest lecture: The new Stallo Supercomputer | Steinar Trædal-Henden |
-| L14 | Thu 10.11 | Summary lecture   | Lars Ailo  |
+| L14 | Thu 10.11 | Summary lecture (no slides)   | Lars Ailo  |
 | -   | Thu 10.11 | Course evaluation | Lars Ailo |
 | -   | Thu 24.11 | Exam | - |
 
@@ -75,6 +75,20 @@ In addition, unless otherwise noted, the following are also **mandatory** readin
 - [Gustafson’s law](http://dl.acm.org/citation.cfm?id=42415)
 - [Debunking the 100X GPU vs. CPU myth: an evaluation of throughput computing on CPU and GPU](http://dl.acm.org/citation.cfm?id=1816021) or [Can traditional programming bridge the ninja performance gap for parallel computing applications?](http://dl.acm.org/citation.cfm?id=2766485.2742910)
 8. Performance evaluation
+- None
+9. Cloud compting
+10. Scala, and Spark
+11. Data-intensive computing
+- “Jim Gray on eScience”, and chapters 1 and 2 from The Fourth Paradigm: Data-Intensive Scientific Discovery. Edited by Tony Hey, Stewart Tansley, and Kristin Tolle. 2010.
+- Optional: [Google File System paper](research.google.com/archive/gfs-sosp2003.pdf)
+- Optional: [MapReduce paper](http://cacm.acm.org/magazines/2010/1/55744-mapreduce-a-flexible-data-processing-tool/fulltext)
+- Optional: [BigTable paper](https://www.usenix.org/conference/osdi-06/bigtable-distributed-storage-system-structured-data)
+- Optional: [Exascale Computing and Big Data](http://cacm.acm.org/magazines/2015/7/188732-exascale-computing-and-big-data/fulltext)
+12. Spark libraries
+- Optional: lecture notes, papers and videos in the [slide](lectures/12-spark-libraries.pptx) comments
+13. Stallo supercomputer
+- None
+14. Summary
 - None
 
 The following are suggested **additional readings**:
@@ -136,3 +150,19 @@ The following are suggested **additional readings**:
 	1. Go through either the [debunking](http://dl.acm.org/citation.cfm?id=1816021) or [ninja](http://dl.acm.org/citation.cfm?id=2766485.2742910) paper and study how they did each of the “Steps for a performance evaluation study”.
 8. Performance evaluation
 	1. None
+9. Cloud computing
+	1. Create an account at AWS and calculate the approximate cost for analyzing 1TB and 1PB of data.
+10.	Scala and Spark
+	1. Run the provided WordCount in assignment 3 on AWS
+	2. Implement grep in Scala and run it on AWS  
+11.	Data-intensive computing
+	1. Implement word count in MapReduce and run it on AWS.
+	2. Implement grep in MapReduce and run it on AWS.
+12. Spark libraries
+	1. Refactor your assignment 3 code to use GraphX
+13. Stallo
+	1. None
+14. Summary lecture
+    * [Exam from 2015](https://uit.no/Content/482137/INF-2202.pdf)
+	* [Exam from 2013](https://uit.no/Content/363908/INF-2202%20H13.pdf)
+	* [Sample exam](http://www.cs.uit.no/~larsab/inf2202/fall13/sample%20exam.pdf) (from 2013)
